@@ -8,7 +8,7 @@ Content-Based Filtering: This approach uses a series of descriptions of an item 
 
 * show_all = Boolean that indicates if the similiarities of each item will be calculated (show_all = True) or for just one item (show_all = False). The default value is True.
 
-* graph = Boolean that indicates with the cosine similarity will be displayed (graph = True) or not (graph = False). The default value is True.
+* graph = Boolean that indicates if the cosine similarity will be displayed (graph = True) or not (graph = False). The default value is True.
 
 * target = k-top similarities of target item. Only relevant if "show_all = False". The default value is "none".
 
