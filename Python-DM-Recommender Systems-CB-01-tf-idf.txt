@@ -1,0 +1,13 @@
+Movie	Adventure	Animation	Comedy	Crime	Drama	Fantasy	Mystery	Sci-Fi	Thriller	War	Western
+Three Kings (1999)	0	0	1	0	1	0	0	0	0	1	0
+Princess Mononoke  (1997)	1	1	0	0	0	1	0	0	0	0	0
+The Outlaw Josey Wales (1976)	1	0	0	0	1	0	0	0	1	0	1
+City of God (2002)	0	0	0	1	1	0	0	0	0	0	0
+The Day After Tomorrow (2004)	0	0	0	0	0	0	0	1	0	0	0
+National Treasure (2004)	1	0	0	0	0	0	1	0	0	0	0
+The Bourne Identity (1988)	0	0	0	0	0	0	1	0	1	0	0
+King Kong (2005)	1	0	0	0	0	1	0	0	0	0	0
+Blood Diamond (2006)	0	0	0	1	1	0	0	0	0	0	0
+Jumper (2008)	1	0	0	0	0	0	0	1	0	0	0
+Thor (2011)	1	0	0	0	0	1	0	0	0	0	0
+The Hunger Games (2012)	1	0	0	0	0	1	0	1	0	0	0
