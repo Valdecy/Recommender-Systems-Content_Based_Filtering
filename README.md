@@ -13,3 +13,6 @@ Content-Based Filtering: This approach uses a series of descriptions of an item 
 * target = k-top similarities of target item. Only relevant if "show_all = False". The default value is "none".
 
 * cut_off = Value between -1 and 1 that filter similar item according to a certain threshold value. The default value is -0.9999.
+
+# Recommender System Library
+Try [pyRecommenderSystem](https://github.com/Valdecy/pyRecommenderSystem): A Recommender System Library
